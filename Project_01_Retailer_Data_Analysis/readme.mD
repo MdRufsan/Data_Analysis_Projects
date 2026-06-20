@@ -5,7 +5,7 @@ This project presents a comprehensive sales performance analysis of beverage pro
 <b>Dataset Description</b></br>
 The analysis utilizes four primary datasets, each representing sales transactions from a specific retailer:
 
-1. Retailer_Costco.xlsx < a href="https://github.com/MdRufsan/Data_Analysis_Projects/blob/main/Project_01_Retailer_Data_Analysis/1.%20Retailer_Costco.xlsx">
+1. Retailer_Costco.xlsx < a href="https://github.com/MdRufsan/Data_Analysis_Projects/blob/main/Project_01_Retailer_Data_Analysis/1.%20Retailer_Costco.xlsx"> </a>
 Retailer: Costco
 
 Region: West - California
