@@ -1,5 +1,5 @@
-Beverage Retail Sales Analysis Project
-Project Overview
+<b>Beverage Retail Sales Analysis Project</b><br>
+<b>Project Overview</b>
 This project presents a comprehensive sales performance analysis of beverage products across four major retail chains: Costco, Target, Walgreens, and Walmart. The analysis encompasses sales data from January 2022 through December 2022, providing insights into revenue patterns, product performance, regional market dynamics, and operational metrics.
 
 Dataset Description
