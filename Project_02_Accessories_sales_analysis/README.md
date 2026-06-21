@@ -1,5 +1,79 @@
+# 📊 Accessories Sales Analysis
+
+**v1.0** · Comprehensive Sales Performance · Sep 2025 – Jan 2027
 
 ---
+
+## 📋 Project Overview
+
+This project presents a comprehensive sales performance analysis of accessories products across multiple regions. The dataset includes **500 transaction records** from **September 2025** through **January 2027**, providing deep insights into revenue patterns, product performance, regional dynamics, and customer behavior.
+
+Product categories include: **Backpack, Chair, Charger, Desk Lamp, Notebook, Pen Set,** and **USB Drive**. Sales are analyzed across four regions: **East, North, South,** and **West**.
+
+---
+
+## 📁 Dataset Description
+
+**Source:** `Accessories_sales_analysis.xlsx`
+
+| Attribute | Details |
+|-----------|---------|
+| **Data Sheet** | DATA |
+| **KPI Sheet** | kpi |
+| **Dashboard** | Dash_board (ready for visualization) |
+| **Records** | 500 transaction entries |
+| **Date Range** | September 2025 – January 2027 |
+| **Total Revenue** | $3,864,540 |
+| **Total Units Sold** | 2,803 |
+
+---
+
+### Data Schema
+
+| Field | Description | Data Type |
+|-------|-------------|-----------|
+| Sl No | Serial number | Integer |
+| Date | Transaction date | Date |
+| Customer | Customer name | String |
+| Region | Geographic region | String |
+| Item | Product name | String |
+| Qty | Quantity purchased | Integer |
+| Price | Unit price in USD | Integer |
+| Amount | Total revenue (calculated) | Integer |
+
+---
+
+## 📍 Regional Performance
+
+| Region | Total Revenue | Market Share |
+|--------|---------------|--------------|
+| South | $1,243,690 | 32.2% |
+| West | $1,174,540 | 30.4% |
+| East | $779,410 | 20.2% |
+| North | $666,900 | 17.3% |
+| **Total** | **$3,864,540** | **100%** |
+
+**Key Insight:** The **South region** leads with 32.2% of total revenue, closely followed by the **West** at 30.4%.
+
+---
+
+## 📦 Product Performance
+
+| Product | Revenue | Units Sold | Avg Price |
+|---------|---------|------------|-----------|
+| Backpack | $666,090 | 354 | $1,881 |
+| Pen Set | $644,100 | 424 | $1,519 |
+| USB Drive | $544,060 | 446 | $1,220 |
+| Charger | $538,040 | 446 | $1,206 |
+| Notebook | $504,280 | 383 | $1,317 |
+| Chair | $484,900 | 369 | $1,314 |
+| Desk Lamp | $483,070 | 381 | $1,268 |
+| **Grand Total** | **$3,864,540** | **2,803** | — |
+
+---
+
+### Revenue Distribution by Product
+
 
 ## 📈 Monthly Sales Trends
 
