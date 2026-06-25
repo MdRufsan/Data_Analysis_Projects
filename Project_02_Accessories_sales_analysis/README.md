@@ -176,7 +176,7 @@ The dataset includes **10 unique customers** across all regions:
 
 ---
 <b>Digital Dashboard
-<img width="1920" height="1080" alt="image" src="https://github.com/MdRufsan/Data_Analysis_Projects/blob/main/Project_03_Multiple_Challenge/Dashboarg%20Ch.png" />
+<img width="1920" height="1080" alt="image" src="https://github.com/MdRufsan/Data_Analysis_Projects/blob/main/Project_02_Accessories_sales_analysis/Dashboard.png" />
 
 
 **Accessories Sales Analysis Project**  
