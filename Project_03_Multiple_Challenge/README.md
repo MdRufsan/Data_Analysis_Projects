@@ -49,5 +49,6 @@ Ey repository te total **5ti major data challenges** solve kora hoyeche, jekhane
 * **BI Feature:** Pivot Tables, Interactive Slicers, Timeline, Conditional Formatting Data Bars.
 
 ---
+<b>Digital Dashboard
 <img width="1920" height="1080" alt="image" src="https://github.com/MdRufsan/Data_Analysis_Projects/blob/main/Project_03_Multiple_Challenge/Dashboarg%20Ch.png" />
 
