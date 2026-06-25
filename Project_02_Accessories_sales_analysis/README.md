@@ -175,6 +175,9 @@ The dataset includes **10 unique customers** across all regions:
 | Top Product | Backpack ($666,090) |
 
 ---
+<b>Digital Dashboard
+<img width="1920" height="1080" alt="image" src="https://github.com/MdRufsan/Data_Analysis_Projects/blob/main/Project_03_Multiple_Challenge/Dashboarg%20Ch.png" />
+
 
 **Accessories Sales Analysis Project**  
 *Developed as part of a comprehensive sales performance analysis initiative to support strategic decision-making for accessories product distribution across multiple regions.*
