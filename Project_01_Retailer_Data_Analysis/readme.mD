@@ -173,7 +173,7 @@ The project includes a comprehensive **KPI Dashboard** (accessible via the `KPI.
 
 ---
 <b>Digital Dashboard
-<img width="1920" height="1080" alt="image" src="https://github.com/MdRufsan/Data_Analysis_Projects/blob/main/Project_02_Accessories_sales_analysis/Dashboard.png" />
+<img width="1920" height="1080" alt="image" src="https://github.com/MdRufsan/Data_Analysis_Projects/blob/main/Project_01_Retailer_Data_Analysis/retailer%20dashboard.png" />
 
 **Beverage Retail Sales Analysis Project**  
 *Developed as part of a comprehensive sales performance analysis initiative to support strategic decision-making for beverage retail distribution across multiple channels.*
